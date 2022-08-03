@@ -4,8 +4,5 @@
 - [ ] Yolo V4 - Tiny
 - [ ] Yolo V5 - N/S/M/L/X
 - [ ] Faster R CNN inceptionV2
+- [ ] Faster R CNN resnet101
 
-## Examples of Visuals
-![](1.png)
-![](2.png)
-![](3.png)
