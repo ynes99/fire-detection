@@ -4,3 +4,4 @@
 - [ ] Yolo V4 - Tiny
 - [ ] Yolo V5 - N/S/M/L/X
 - [x] Faster R CNN inceptionV2
+- [ ] Faster R CNN Resnet 101
